@@ -4,10 +4,8 @@ const Header = () => {
     const [isOpen, setIsOpen] = useState(false);
 
     const navItems = [
-        { name: 'CLAIM MEME', href: '#' },
-        { name: 'FARMING', href: '#' },
-        { name: 'STAKELAND', href: '#' },
-        { name: 'BUY MEME', href: '#' },
+        { name: 'ABOUT', href: '#about' },
+        { name: 'LORE', href: '#lore' },
     ];
 
     return (
@@ -32,11 +30,6 @@ const Header = () => {
                                 <span className="absolute -bottom-2 left-0 w-0 h-1 bg-meme-yellow transition-all group-hover:w-full"></span>
                             </a>
                         ))}
-                        <div className="flex space-x-4">
-                            <button className="pixel-btn bg-white hover:bg-gray-100 text-black border-4 border-black shadow-[4px_4px_0px_#000]">
-                                CONNECT
-                            </button>
-                        </div>
                     </div>
 
                     {/* Mobile menu button */}

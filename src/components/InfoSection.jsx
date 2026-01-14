@@ -9,7 +9,7 @@ const InfoSection = () => {
     ];
 
     return (
-        <div className="bg-meme-dark py-20 px-4 border-t-8 border-black relative overflow-hidden">
+        <div id="timeline" className="bg-meme-dark py-20 px-4 border-t-8 border-black relative overflow-hidden">
             {/* Space background */}
             <div className="absolute inset-0 opacity-30"
                 style={{

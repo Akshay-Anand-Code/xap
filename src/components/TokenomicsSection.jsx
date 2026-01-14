@@ -2,7 +2,7 @@ import React from 'react';
 
 const TokenomicsSection = () => {
     return (
-        <div className="bg-gradient-to-b from-meme-dark to-blue-950 py-20 px-4 border-t-8 border-black">
+        <div id="about" className="bg-gradient-to-b from-meme-dark to-blue-950 py-20 px-4 border-t-8 border-black">
             <div className="max-w-6xl mx-auto">
                 <h2 className="font-pixel text-4xl md:text-5xl text-center text-white mb-16 drop-shadow-[4px_4px_0_rgba(0,0,0,0.5)]">
                     ABOUT $XAP
