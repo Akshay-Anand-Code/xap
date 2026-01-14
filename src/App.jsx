@@ -42,17 +42,24 @@ function App() {
             </div>
 
             {/* Tagline */}
-            <p className="font-retro text-2xl md:text-3xl text-meme-dark mb-12 max-w-2xl mx-auto">
-              Join the most useless token in crypto history
-            </p>
+            <div className="mb-12">
+              <p className="font-pixel text-xl md:text-2xl text-meme-dark/80 mb-2 uppercase tracking-tighter">
+                Anti-Boomer Coin • No Utility • No Roadmap • No Promises
+              </p>
+              <p className="font-retro text-2xl md:text-4xl text-meme-dark leading-tight max-w-2xl mx-auto">
+                Join the most useless token in crypto history
+              </p>
+            </div>
 
             {/* Buttons */}
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-              <button className="pixel-btn bg-meme-yellow hover:bg-yellow-400 text-black text-xl border-4 border-black shadow-[6px_6px_0px_#000] hover:shadow-[4px_4px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] transition-all">
-                GET STARTED
+              <button className="pixel-btn bg-meme-yellow hover:bg-yellow-400 text-black text-xl border-4 border-black shadow-[6px_6px_0px_#000] hover:shadow-[4px_4px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] transition-all flex items-center gap-3">
+                <svg className="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg>
+                TWITTER
               </button>
-              <button className="pixel-btn bg-meme-dark hover:bg-gray-800 text-white text-xl border-4 border-black shadow-[6px_6px_0px_#000] hover:shadow-[4px_4px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] transition-all">
-                LEARN MORE
+              <button className="pixel-btn bg-white hover:bg-gray-100 text-black text-xl border-4 border-black shadow-[6px_6px_0px_#000] hover:shadow-[4px_4px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] transition-all flex items-center gap-3">
+                <span className="text-2xl">💊</span>
+                PUMPFUN
               </button>
             </div>
           </div>

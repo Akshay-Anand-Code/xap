@@ -29,17 +29,19 @@ const Hero = () => {
                 </h1>
 
                 <div className="flex flex-col md:flex-row gap-6 justify-center items-center mt-12 scale-110">
-                    <button className="pixel-btn bg-meme-yellow hover:bg-yellow-400 text-black text-lg md:text-xl border-4 border-black shadow-[6px_6px_0px_#000] hover:shadow-[4px_4px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] transition-all">
-                        CLAIM YOUR FIRE
+                    <button className="pixel-btn bg-meme-yellow hover:bg-yellow-400 text-black text-lg md:text-xl border-4 border-black shadow-[6px_6px_0px_#000] hover:shadow-[4px_4px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] transition-all flex items-center gap-3">
+                        <svg className="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg>
+                        TWITTER
                     </button>
 
-                    <button className="pixel-btn bg-white hover:bg-gray-100 text-black text-lg md:text-xl border-4 border-black shadow-[6px_6px_0px_#000] hover:shadow-[4px_4px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] transition-all">
-                        VIEW DASHBOARD
+                    <button className="pixel-btn bg-white hover:bg-gray-100 text-black text-lg md:text-xl border-4 border-black shadow-[6px_6px_0px_#000] hover:shadow-[4px_4px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] transition-all flex items-center gap-3">
+                        <span className="text-2xl">💊</span>
+                        PUMPFUN
                     </button>
                 </div>
 
                 <p className="font-retro text-xl md:text-2xl text-meme-dark mt-12 bg-white/80 p-4 border-4 border-black inline-block shadow-[4px_4px_0px_rgba(0,0,0,0.5)]">
-                    A MEMELAND PRODUCT. NO UTILITY. NO ROADMAP. NO PROMISES.
+                    ANTI - BOOMER COIN . NO UTILITY. NO ROADMAP. NO PROMISES.
                 </p>
             </div>
 

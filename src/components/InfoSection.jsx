@@ -2,10 +2,10 @@ import React from 'react';
 
 const InfoSection = () => {
     const milestones = [
-        { date: 'NOV 9', title: 'WAITLIST OPENS', description: 'Sign up for early access' },
-        { date: 'DEC 1', title: 'FIRE SALE', description: 'Limited allocation available' },
-        { date: 'JAN 15', title: 'AIRDROPS BEGIN', description: 'Claim your tokens' },
-        { date: 'FEB 1', title: 'OFFICIAL LAUNCH', description: 'Trading goes live' },
+        { date: 'PHASE 1', title: 'THE BOOMER TRAP', description: 'Boomers buying gold & rare metals just to dump them on your generation.' },
+        { date: 'PHASE 2', title: 'THE DECEPTION', description: 'They tell you it’s "Real Wealth" while they gatekeep the future.' },
+        { date: 'PHASE 3', title: 'THE BIG BRAIN', description: 'You are smart enough to see through the lies and buy more $XAP.' },
+        { date: 'PHASE 4', title: 'THE ASCENSION', description: 'You profited 6900x+ more than them. The new gold has arrived.' },
     ];
 
     return (
