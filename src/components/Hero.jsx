@@ -25,7 +25,7 @@ const Hero = () => {
                 </div>
 
                 <h1 className="font-pixel text-4xl md:text-6xl lg:text-7xl text-white drop-shadow-[4px_4px_0_#000] mb-8 leading-tight">
-                    ONE $XAP <br /> TO RULE THEM ALL
+                    ONE <span className="text-[#15803d] text-shadow-pixel">$XAP</span> <br /> TO RULE THEM ALL
                 </h1>
 
                 <div className="flex flex-col md:flex-row gap-6 justify-center items-center mt-12 scale-110">
