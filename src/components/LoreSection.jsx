@@ -75,33 +75,30 @@ const LoreSection = () => {
 
                     <div className="space-y-6">
                         <div className="flex items-start gap-4">
-                            <span className="text-meme-yellow text-3xl flex-shrink-0">💎</span>
+                            <span className="text-meme-yellow text-3xl flex-shrink-0">👑</span>
                             <p className="font-retro text-2xl text-amber-100 leading-relaxed">
-                                <span className="text-meme-yellow font-bold">SPX6900</span> is the meme version of the stock market (S&P500).
-                                <span className="text-meme-yellow font-bold"> PUMPITE ($XAP)</span> is the meme version of the commodity/precious metals market.
+                                <span className="text-meme-yellow font-bold">PUMPITE</span> is here to meme the entire commodity market. Gold, Silver, Platinum — they all <span className="text-meme-yellow font-bold italic">bow to the new king</span>.
                             </p>
                         </div>
 
                         <div className="flex items-start gap-4">
-                            <span className="text-meme-yellow text-3xl flex-shrink-0">⚡</span>
+                            <span className="text-meme-yellow text-3xl flex-shrink-0">⛓️</span>
                             <p className="font-retro text-2xl text-amber-100 leading-relaxed">
-                                A <span className="text-meme-yellow font-bold">memerock</span> designed to compete with Gold ($XAU), Silver, and every precious metal.
-                                Extracted from the trenches, refined by the community.
+                                Traditional metals are relics of a bygone era. <span className="text-meme-yellow font-bold">PUMPITE ($XAP)</span> is the sovereign memerock, shattering the chains of boomer wealth.
                             </p>
                         </div>
 
                         <div className="flex items-start gap-4">
-                            <span className="text-meme-yellow text-3xl flex-shrink-0">🌟</span>
+                            <span className="text-meme-yellow text-3xl flex-shrink-0">🌋</span>
                             <p className="font-retro text-2xl text-amber-100 leading-relaxed">
-                                The commodity markets are <span className="text-meme-yellow font-bold">pumping like never before</span>.
-                                PUMPITE is your dreamy, euphoric bet on the metals that move the world.
+                                While gold gathers dust in vaults, <span className="text-meme-yellow font-bold">PUMPITE</span> flows through the trenches, powered by the euphoria of the new generation.
                             </p>
                         </div>
 
                         <div className="flex items-start gap-4">
-                            <span className="text-meme-yellow text-3xl flex-shrink-0">🔥</span>
+                            <span className="text-meme-yellow text-3xl flex-shrink-0">🏆</span>
                             <p className="font-retro text-2xl text-amber-100 leading-relaxed">
-                                <span className="text-meme-yellow font-bold">$XAP is the best memecoin bet on the commodity market.</span> Period.
+                                <span className="text-meme-yellow font-bold">$XAP is the ultimate commodity bet.</span> The era of precious metals is over; the era of the memerock has begun.
                             </p>
                         </div>
                     </div>

@@ -4,8 +4,7 @@ const Header = () => {
     const [isOpen, setIsOpen] = useState(false);
 
     const navItems = [
-        { name: 'ABOUT', href: '#about' },
-        { name: 'LORE', href: '#lore' },
+        { name: 'MANIFESTO', href: '#manifesto' },
     ];
 
     return (
