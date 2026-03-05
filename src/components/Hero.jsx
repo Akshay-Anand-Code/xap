@@ -30,7 +30,7 @@ const Hero = () => {
 
                 <div className="flex flex-col md:flex-row gap-6 justify-center items-center mt-12 scale-110">
                     <a
-                        href="https://x.com/pumpitesol"
+                        href="https://x.com/pumpiteXAP"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="pixel-btn bg-meme-yellow hover:bg-yellow-400 text-black text-lg md:text-xl border-4 border-black shadow-[6px_6px_0px_#000] hover:shadow-[4px_4px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] transition-all flex items-center gap-3"
